@@ -4,12 +4,12 @@
 
 I'm a passionate junior backend developer currently studying Systems Development at SENAI Cruzeiro. I focus on building robust, scalable server-side applications and I'm always looking to improve my logic and architecture skills. Currently based in Lorena, SP.
 
-* 🔭 I’m currently working on **[Insira um projeto atual, ex: my first API / personal portfolio]**
-* 🌱 I’m currently learning **[Insira tecnologias, ex: Node.js, Java, PHP, Docker, SQL]**
-* 👯 I’m looking to collaborate on **open-source backend projects**
-* 💬 Ask me about **backend development, systems architecture, or even Formula 1 and Palmeiras!**
-* 📫 How to reach me: **[Seu e-mail]**
-* ⚡ Fun fact: **When I'm not coding, I'm probably managing virtual air traffic or playing Valorant.**
+* 🔭 I’m currently working on Monetiza TCC Project
+* 🌱 I’m currently learning Node.js, JavaScript, PHP, SQL, Laravel, Dart
+* 👯 I’m looking to collaborate on Monetiza
+* 💬 Ask me about backend development, systems architecture.
+* 📫 How to reach me: yagooandrademolinaa@gmail.com
+* ⚡ Fun fact: When I'm not coding, I'm probably studing air traffic controller, Playing something.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yago-andrade-molina-32b64a379)
