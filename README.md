@@ -13,7 +13,7 @@ I'm a passionate junior backend developer currently studying Systems Development
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yago-andrade-molina-32b64a379)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/molinaa-yago)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/molinaa.yago/)
 
 ### Languages and Tools:
 <p align="left">
@@ -25,5 +25,5 @@ I'm a passionate junior backend developer currently studying Systems Development
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Yago's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yago-molina&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Yago's GitHub Stats" />
 </p>
