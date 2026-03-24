@@ -4,10 +4,10 @@
 
 I'm a passionate junior backend developer currently studying Systems Development at SENAI Cruzeiro. I focus on building robust, scalable server-side applications and I'm always looking to improve my logic and architecture skills. Currently based in Lorena, SP.
 
-* 🔭 I’m currently working on Monetiza TCC Project
-* 🌱 I’m currently learning Node.js, JavaScript, PHP, SQL, Laravel, Dart
-* 👯 I’m looking to collaborate on Monetiza
-* 💬 Ask me about backend development, systems architecture.
+* 🔭 I’m currently working on Monetiza, my TCC Project.
+* 🌱 I’m currently learning Node.js, JavaScript, PHP, SQL, Laravel, Dart, Flutter.
+* 👯 I’m looking to collaborate on Monetiza.
+* 💬 Ask me about **backend development, systems architecture.**
 * 📫 How to reach me: yagooandrademolinaa@gmail.com
 * ⚡ Fun fact: When I'm not coding, I'm probably studing air traffic controller, Playing something.
 
