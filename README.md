@@ -29,5 +29,4 @@ I'm a passionate junior backend developer currently studying Systems Development
 ### GitHub Stats:
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yago-molina&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-molina&layout=compact&langs_count=7&theme=dark" />
 </p>
