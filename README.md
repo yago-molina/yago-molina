@@ -12,8 +12,8 @@ I'm a passionate junior backend developer currently studying Systems Development
 * ⚡ Fun fact: When I'm not coding, I'm probably studing air traffic controller, Playing something.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-andrade-molina-32b64a379/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/molinaa.yago/)
+<a href="https://linkedin.com/in/yago-andrade-molina-32b64a379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yago-andrade-molina-32b64a379/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/molinaa.yago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="molinaa.yago" height="30" width="40" /></a>
 
 ### Languages and Tools:
 <p align="left">
